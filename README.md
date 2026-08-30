@@ -14,9 +14,11 @@ From the main app repo:
 
 ```bash
 flutter build web --release --base-href /
+```
 
 Then copy build/web/* into this repo, commit, and push to main — GitHub Pages picks up the change automatically within a minute or two.
 
-Get the full app
+
+## Get the full app
 
 📱 Download Catdress on the App Store (https://apps.apple.com/app/id6775200511)
