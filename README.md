@@ -11,4 +11,4 @@ This repo hosts the static build output for Catdress's web discovery funnel: a m
 
 ## Get the full app
 
-📱 Download Catdress on the App Store (https://apps.apple.com/app/id6775200511)
+📱 Download Catdress on the App Store (https://apps.apple.com/app/catdress/id6775200511)
