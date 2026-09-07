@@ -39760,7 +39760,7 @@ r=A.ar0(r,s?B.ae:B.qM,p,48)
 s=s?"Today's free looks are all claimed":"Couldn't generate that look \u2014 the free web preview may be out of tries for now."
 s=A.jq(A.d([r,B.fl,A.dl(s,A.eU().$1$color(B.cU),B.aL),B.fm,q.If()],t.G),B.ao,B.bS)}else{s=A.eB(20)
 r=q.w
-s=A.jq(A.d([A.vg(s,r==null?B.KR:A.ar5(r,B.dY,1/0)),B.fm,A.dl("Like it? The app has 181 outfits and unlimited looks.",A.eU().$2$color$fontSize(B.cU,14),B.aL),B.dJ,q.If()],t.G),B.ao,B.bS)}return A.a7m(o,B.eh,A.pJ(new A.eC(B.fT,new A.h4(B.ev,s,p),p),p,p))},
+s=A.jq(A.d([A.vg(s,r==null?B.KR:A.ar5(r,B.dY,1/0)),B.fm,A.dl("Like it? The app has 187 outfits and unlimited looks.",A.eU().$2$color$fontSize(B.cU,14),B.aL),B.dJ,q.If()],t.G),B.ao,B.bS)}return A.a7m(o,B.eh,A.pJ(new A.eC(B.fT,new A.h4(B.ev,s,p),p),p,p))},
 If(){var s=null,r=A.Gw(B.ae,s,B.eu,new A.cQ(A.eB(28),B.r),s)
 return A.zv(A.Gv(A.dl("Get the full app on the App Store",A.jf().$2$fontSize$fontWeight(15,B.Y),s),new A.aiC(),r),s,1/0)}}
 A.aiF.prototype={
@@ -39824,7 +39824,7 @@ s=""+(s-m)+"/"+s+" free looks left today"
 m=s}B.b.J(n,A.d([B.dJ,r,B.KU,A.dl(m,A.eU().$3$color$fontSize$fontWeight(B.ae,12,B.bG),B.aL)],o))}n.push(B.KS)
 if(q.gtU()){m=A.Gw(B.ae,p,B.eu,new A.cQ(A.eB(28),B.r),p)
 n.push(A.zv(A.Gv(A.dl("Get the full app on the App Store",A.jf().$2$fontSize$fontWeight(16,B.Y),p),new A.aiH(),m),p,1/0))}else{m=A.Gw(B.ae,p,B.eu,new A.cQ(A.eB(28),B.r),p)
-n.push(A.zv(A.Gv(A.dl("Dress Your Cat \u2014 Free",A.jf().$2$fontSize$fontWeight(16,B.Y),p),new A.aiI(a),m),p,1/0))}if(!q.gtU())B.b.J(n,A.d([B.dJ,A.dl("Get the full app for 181 outfits and unlimited looks \u2192",A.eU().$2$color$fontSize(B.ae,13),B.aL)],o))
+n.push(A.zv(A.Gv(A.dl("Dress Your Cat \u2014 Free",A.jf().$2$fontSize$fontWeight(16,B.Y),p),new A.aiI(a),m),p,1/0))}if(!q.gtU())B.b.J(n,A.d([B.dJ,A.dl("Get the full app for 187 outfits and unlimited looks \u2192",A.eU().$2$color$fontSize(B.ae,13),B.aL)],o))
 return A.a7m(p,B.eh,A.asz(!0,A.pJ(new A.eC(B.fT,new A.h4(B.ev,A.jq(n,B.ao,B.bS),p),p),p,p),!0))}}
 A.aiK.prototype={
 $1(a){var s=this.a
